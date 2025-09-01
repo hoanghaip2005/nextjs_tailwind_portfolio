@@ -1,8 +1,10 @@
 {
+  "homepage": "http://hoanghaip2005.github.io/nextjs_tailwind_portfolio",
   "name": "clone",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "deploy": "gh-pages -d build",
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",

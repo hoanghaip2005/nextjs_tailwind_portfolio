@@ -101,7 +101,7 @@ export default function About() {
         {/* GitHub Activity Section */}
         <div className="text-center">
           <a 
-            href="https://github.com/vsnaichuk"
+            href="https://github.com/hoanghaip2005"
             target="_blank"
             rel="noreferrer"
             className="inline-block w-full"
@@ -112,7 +112,7 @@ export default function About() {
             
             <div className="bg-background/50 rounded-lg p-3 sm:p-4 lg:p-6 w-full max-w-full overflow-hidden">
               <GitHubCalendarWrapper
-                username="vsnaichuk"
+                username="hoanghaip2005"
                 blockSize={15}
                 blockMargin={5}
                 fontSize={16}
